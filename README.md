@@ -398,11 +398,11 @@ Solicitações em geral: [Formulário de Atendimento MT_2026 NOVO.xlsx](https://
 ### 01 - Primeiro dia útil:
 * Conferir Calendário CCEE;
 * Consolidação de dados de consumo: cruzamento informações internas, saúde de medição e SCDE. (clientes com 80% a 100% de saúde de medição)
->  Acrescentar 3% Perdas;
->  Retirar ProInfra;
+  >  Acrescentar 3% Perdas;
+  >  Retirar ProInfra;
 
 * Verificar quais contratos e Montantes Executaremos:
->  Se as contratações estão dentro dos contratos padrões, se estão expostos e etc.
+  >  Se as contratações estão dentro dos contratos padrões, se estão expostos e etc.
 
 ### 02 - Segundo dia útil:
 * Enviar montantes que executaremos a cada comercializadora
