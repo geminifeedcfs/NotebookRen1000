@@ -97,7 +97,7 @@ Abaixo documentamos a evolução dos testes iterativos com IAs/NotebookLM, evide
 
 Consolidação regulatória pronta para consulta rápida na rotina da engenharia.
 
-### 1. 📝 Resumos Estruturados do Assunto
+### 📝 Resumos Estruturados do Assunto
 
 #### 🅰️ Faturamento, Erros e Devolução de Valores
 * **Inconsistências e Devolução (Art. 323):** Cobranças a maior por erro de medição ou faturamento exigem devolução em **dobro** sobre o valor pago em excesso, acrescido de atualização monetária (IPCA) e juros, salvo engano justificável.
@@ -119,7 +119,7 @@ Consolidação regulatória pronta para consulta rápida na rotina da engenharia
 
 ---
 
-### 2. 📖 Glossário de Conceitos-Chave
+### 📖 Glossário de Conceitos-Chave
 
 | Sigla / Termo | Conceito Regulatório (REN 1000 / Lei 14.300) |
 | :--- | :--- |
@@ -131,7 +131,7 @@ Consolidação regulatória pronta para consulta rápida na rotina da engenharia
 | **RDE** | **Ressarcimento de Danos Elétricos:** Procedimento regulado para ressarcimento de equipamentos danificados por distúrbios na rede. |
 | **SCEE** | **Sistema de Compensação de Energia Elétrica:** Mecanismo em que a energia injetada é cedida para abater o consumo da unidade. |
 | **SMF** | **Sistema de Medição para Faturamento:** Conjunto de medidores e comunicação utilizados para registrar o consumo/injeção. |
-
+| **1 du** |  **primeiro dia útil** - primeiro dia útil 
 ---
 
 
@@ -171,8 +171,20 @@ contador, contendo o número do registro do CRC do Contador
 
 
 * Habilitação Técnica (SMF): Adequação e homologação do Sistema de Medição para Faturamento (SMF) com a distribuidora local e validação na CCEE.
+** Gerar e Pagamento do Emolumento;
+** Modelagem do Ativo Carga;
+  *** Preenchimento de DHC;
+  *** Validação da DHC;
+** Criar Perfil Carga;
+** 
+  
+  
+** Solicitar para concessionária o mapeamento do ponto de medição 
+** Solicitação do Parecer de Localização;
+*** Validação do parecer de localização; 
+*** Cadastro do ponto de medição;
+*** Validação do Ponto pela CCEE;
 
-** Solicitar para concessionária o mapeamento do ponto de medição
 
 * Aprovação e Assinatura: Assinatura do Termo de Adesão e Convenção Arbitral, seguida da homologação do pedido pelo Conselho/Diretoria da CCEE.
 ** Realizada até M-8 dias úteis
@@ -220,6 +232,165 @@ Nesta modalidade, a empresa migra para o Mercado Livre sem se associar diretamen
 
 * Isenção Perante a CCEE: O consumidor fica isento de taxas de adesão, mensalidades associativas, aportes de garantias no MCP, abertura de conta específica e operacionalização nos sistemas da CCEE.
 
+### 📋 Fichas Cadstrais:
+* Genco: [Cadastro Migracao varejista (1).xlsx](https://github.com/user-attachments/files/30555771/Cadastro.Migracao.varejista.1.xlsx)
+* ATMO: [Ficha Cadastral - Assinatura Eletrôrenica_ digital_Contraparte (Atmo Comercializadora).xlsx](https://github.com/user-attachments/files/30555809/Ficha.Cadastral.-.Assinatura.Eletrorenica_.digital_Contraparte.Atmo.Comercializadora.xlsx)
+* EDP: [FICHA CADASTRAL EDP - Copia.xlsx](https://github.com/user-attachments/files/30555816/FICHA.CADASTRAL.EDP.-.Copia.xlsx)
+
+
+
+
+## 3. Adesão Migração como APE  (Agente Direto)
+
+Nesta modalidade, a empresa também torna-se agente associado da CCEE, assumindo diretamente todas as responsabilidades regulatórias, operacionais e financeiras perante o mercado de energia elétrica. Tem algumas etapas e responsabilidades a mais.
+
+### 📋 Etapas de Migração:
+Mesmas eatapas  da Adesão como Consumidor Atacadista (Agente Direto / Autorrepresentado) e algumas adicionais
+
+* ONS:
+  ** Cadastro no sintegra (e-mail relacionamento.agentes@ons.org.br);
+
+```text
+Para: relacionamento.agentes@ons.org.br
+Assunto: Cadastro novo agente
+Prioridade: Alta
+  
+Razão Social: XXXXXX - XX.XXX.XXX/0001-XX
+Nome curto: XXX
+Endereço: 
+Telefone:
+CNPJ: 
+e-mail:  – CPF 
+Público: Geração
+```
+
+  ** Solicitação da Classificação da usina;
+  *** Enviar Ato autorizativo, Diagrama unifilar, CCD ou CUSD e Orçamento de Conexão da Usina;
+  *** Ato autorizativo = CEG
+  *** CUSD se tiver o APE
+  *** Usina de capacidade reduzida, atualmente no regime MMGD em migração para ACL
+  *** Ponto de entrega UC  
+  *** Não é UTE
+  *** Fotovoltaicos
+  
+  ** Obtenção da DIR;
+  ** https://www.ons.org.br/topo/acesso-restrito;
+
+* ANEEL:
+[Passo_a_Passo_Externo.1029_-_OT_e_OC_-_SFT.pdf](https://github.com/user-attachments/files/30556298/Passo_a_Passo_Externo.1029_-_OT_e_OC_-_SFT.pdf)
+
+Protocolo Digital: spd.aneel.gov.br
+
+  ** Cadastro no CDA2 da Empresa
+  ** Geração do Registro CEG no S-GO
+  ** Obtenção do Despacho de Testes
+    *** Obtenção das informações para relatório fotográfico
+    *** Elaboração do Relatório Fotográfico
+  Obtenção do Despacho de Testes
+  
+* EDP (ou concessionária local):
+* 
+** Solicitar o Parecer de Acesso ACL;
+** SMF:
+  *** Buscar informações para o SMF (Unifilar Geral);
+  *** Elaboração Projeto do SMF;
+  *** Elaboração do relatório de comissionamento SMF;
+  *** Elaboração do Memorial de proteções padrão ONS;
+  *** Aprovação do Projeto na EDP;
+  *** Contrato APE com a concessionária (CUSD APE);
+
+*   Montagem em campo
+  ** Suprimento: Telecom, medidor, quadro, TC e TP, etc.
+  ** Agendamento com EDP ou concessionária local
+  ** Agendamento com cliente
+  ** Contratação e Logística com montador
+  ** Montagem em campo 
+
+** 6 Meses antes do fim da vigência ou início operacional já no Livre (nasce no ACL).
+
+* Assinatura do CCVR: Assinatura do Contrato de Comercialização Varejista (CCVR) com o comercializador escolhido.
+
+* Adequação da Medição: Adequação da infraestrutura de medição (telemedição), conduzida junto à distribuidora local.
+
+* Modelagem Simplificada na CCEE: O Comercializador Varejista realiza a vinculação e cadastro da Unidade Consumidora no sistema da CCEE através do Modelo Simplificado via API.
+
+
+
+
+
+
+## ⚡ Procedimentos Operacionais com a Concessionária: 
+
+## EDP
+
+Alguns documentos e procedimentos padrões com a concessionárias local. Para a solicitação é necessário encaminhar documento de identificação, documento de constituição da empresa, CNPJ, procuração e etc.
+
+
+**  Compartilhamento de credito MMGD e Unidades Participantes:
+https://www.edponline.com.br/servicos/compartilhamento-de-credito-mmgd/Index
+
+[nova  unidades_participantes_distribuicao_por_porcentagens.xlsm](https://github.com/user-attachments/files/30555741/nova.unidades_participantes_distribuicao_por_porcentagens.xlsm)
+
+** Alteração de titularidade: 
+[Termo Alteração de Titularidade MANUAL- 11.09.24 (1) (1).pdf](https://github.com/user-attachments/files/30555719/Termo.Alteracao.de.Titularidade.MANUAL-.11.09.24.1.1.pdf)
+
+```text
+Dessa forma, para a realização da Alteração de Titularidade terá que apresentar documento que comprove posse do Imóvel.  
+Documentação obrigatória:
+* Formulário de Fornecimento de energia, ou Termo de alteração de titularidade devidamente preenchido;
+* Documento de identificação (RG e CPF);
+* Contrato de locação completo;
+* Documento que comprove a posse ou a propriedade do imóvel, como IPTU, escritura, contrato de compra e venda ou outro documento equivalente. Destacamos que a apresentação do contrato de locação, isoladamente, não é suficiente para comprovar o vínculo do locador com o imóvel.
+Dessa forma, é indispensável o envio de um documento que comprove a posse ou a propriedade do bem, possibilitando a validação da legitimidade da locação e do vínculo informado.
+```
+
+** Desligamento programado: 
+
+```text
+Boa tarde, prezados.
+
+Solicito desligamento programado e temporário, para adequações do SMF para autoprodutores. Não é desligamento permanente. Trocar o medidor para autoprodução. Necessário comparecimento da equipe de manobra EDP e equipe de medição EDP.
+
+Geradores Mercado Livre - Autoprodutores
+
+Nome do Titular
+CNPJ: 
+Número da Unidade Consumidora (UC): 
+Instalação:  
+
+
+
+Nº da Instalação:   
+Nome do solicitante:    
+Telefone do solicitante:    
+Nome do responsável pela execução do serviço:   
+Telefone 01 do responsável:    
+Telefone 02 do responsável:    
+Data de início do desligamento:   
+Hora de início do desligamento:    
+Data de início da religação:    
+Hora de início da religação:    
+ 
+Haverá algum tipo de manutenção elétrica? SIM   
+Algum serviço será executado no poste onde está localizada a chave do ponto de entrega? SIM
+O serviço a ser executado está a menos de 1,5 metro da rede da EDP? SIM   
+A manutenção será na parte interna da instalação? SIM   
+Haverá troca de TC/TP e/ou Transformador, conjunto de medição ou alteração projeto subestação? SIM   (alteração do conjunto de medição)
+Desligamento afetará terceiro?  NÃO    
+Descrição detalhada do(s) serviço(s) a ser(em) realizado(s):   desligamento programado para adequações do SMF para autoprodutores. Trocar o medidor para autoprodução.
+
+
+```
+
+** Formulário atualizado 2026:  [Formulário de Atendimento MT_2026 NOVO.xlsx](https://github.com/user-attachments/files/30556140/Formulario.de.Atendimento.MT_2026.NOVO.xlsx)
+
+
+
+## ⚡ CCEE: 
+
+* Operação em contenção:
+
+[Cópia de Gerador_de_arquivo_XML-Contrato-AGENTE (2).xls](https://github.com/user-attachments/files/30556252/Copia.de.Gerador_de_arquivo_XML-Contrato-AGENTE.2.xls)
 
 
 ## 📧 Alguns e-mails e prompt
@@ -228,7 +399,7 @@ Nesta modalidade, a empresa migra para o Mercado Livre sem se associar diretamen
 
 
 
-### 3. 🧰 Toolkit de Prompts Reutilizáveis
+### 🧰 Toolkit de Prompts Reutilizáveis
 
 Coleção de prompts otimizados para rápida consulta regulatória e apoio à consultoria técnica no dia a dia:
 
@@ -283,3 +454,8 @@ Atue como especialista em regulação do setor elétrico brasileiro. Crie a estr
 ```
 
 
+## Próximos passos:
+
+Adicionar o caléndário
+campo do gerar e etapas
+Ceg
