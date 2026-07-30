@@ -178,9 +178,9 @@ contador, contendo o número do registro do CRC do Contador
 > * Criar Perfil Carga;
 > * Solicitar para concessionária o mapeamento do ponto de medição 
 > * Solicitação do Parecer de Localização;
->>  * Validação do parecer de localização; 
->>  * Cadastro do ponto de medição;
->>  * Validação do Ponto pela CCEE;
+>      * Validação do parecer de localização; 
+>      * Cadastro do ponto de medição;
+>      * Validação do Ponto pela CCEE;
 
 
 * Aprovação e Assinatura: Assinatura do Termo de Adesão e Convenção Arbitral, seguida da homologação do pedido pelo Conselho/Diretoria da CCEE.
