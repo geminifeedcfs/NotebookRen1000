@@ -248,7 +248,7 @@ Nesta modalidade, a empresa também torna-se agente associado da CCEE, assumindo
 Mesmas eatapas  da Adesão como Consumidor Atacadista (Agente Direto / Autorrepresentado) e algumas adicionais
 
 #### ONS:
-* Cadastro no sintegra (e-mail relacionamento.agentes@ons.org.br);
+    1.  Cadastro no sintegra (e-mail relacionamento.agentes@ons.org.br);
 
 ```text
 Para: relacionamento.agentes@ons.org.br
@@ -264,49 +264,49 @@ e-mail:  – CPF
 Público: Geração
 ```
 
-* Solicitação da Classificação da usina;
-  *** Enviar Ato autorizativo, Diagrama unifilar, CCD ou CUSD e Orçamento de Conexão da Usina;
-  *** Ato autorizativo = CEG
-  *** CUSD se tiver o APE
-  *** Usina de capacidade reduzida, atualmente no regime MMGD em migração para ACL
-  *** Ponto de entrega UC  
-  *** Não é UTE
-  *** Fotovoltaicos
+  2. Solicitação da Classificação da usina;
+* Enviar Ato autorizativo, Diagrama unifilar, CCD ou CUSD e Orçamento de Conexão da Usina;
+* Ato autorizativo = CEG;
+* CUSD se tiver o APE;
+* Usina de capacidade reduzida, atualmente no regime MMGD em migração para ACL;
+* Ponto de entrega UC;
+* Não é UTE;
+* Fotovoltaicos;
   
-  ** Obtenção da DIR;
-  ** https://www.ons.org.br/topo/acesso-restrito;
+  3. Obtenção da DIR;
+  4.  https://www.ons.org.br/topo/acesso-restrito;
 
 #### ANEEL:
 [Passo_a_Passo_Externo.1029_-_OT_e_OC_-_SFT.pdf](https://github.com/user-attachments/files/30556298/Passo_a_Passo_Externo.1029_-_OT_e_OC_-_SFT.pdf)
 
 Protocolo Digital: spd.aneel.gov.br
 
-  ** Cadastro no CDA2 da Empresa
-  ** Geração do Registro CEG no S-GO
-  ** Obtenção do Despacho de Testes
-    *** Obtenção das informações para relatório fotográfico
-    *** Elaboração do Relatório Fotográfico
-  Obtenção do Despacho de Testes
+  1. Cadastro no CDA2 da Empresa;
+  2. Geração do Registro CEG no S-GO;
+  3. Obtenção do Despacho de Testes;
+     * Obtenção das informações para relatório fotográfico;
+     * Elaboração do Relatório Fotográfico;
+   4. Obtenção do Despacho de Testes;
   
 #### EDP (ou concessionária local):
-* 
-** Solicitar o Parecer de Acesso ACL;
-** SMF:
-  *** Buscar informações para o SMF (Unifilar Geral);
-  *** Elaboração Projeto do SMF;
-  *** Elaboração do relatório de comissionamento SMF;
-  *** Elaboração do Memorial de proteções padrão ONS;
-  *** Aprovação do Projeto na EDP;
-  *** Contrato APE com a concessionária (CUSD APE);
+ 
+1.  Solicitar o Parecer de Acesso ACL;
+2. SMF:
+ * Buscar informações para o SMF (Unifilar Geral);
+ *   Elaboração Projeto do SMF;
+ *   Elaboração do relatório de comissionamento SMF;
+ *   Elaboração do Memorial de proteções padrão ONS;
+ *   Aprovação do Projeto na EDP;
+ *   Contrato APE com a concessionária (CUSD APE);
 
 ####   Montagem em campo
-  ** Suprimento: Telecom, medidor, quadro, TC e TP, etc.
-  ** Agendamento com EDP ou concessionária local
-  ** Agendamento com cliente
-  ** Contratação e Logística com montador
-  ** Montagem em campo 
+  * Suprimento: Telecom, medidor, quadro, TC e TP, etc.
+  * Agendamento com EDP ou concessionária local
+  * Agendamento com cliente
+  * Contratação e Logística com montador
+  * Montagem em campo 
 
-** 6 Meses antes do fim da vigência ou início operacional já no Livre (nasce no ACL).
+#### 6 Meses antes do fim da vigência ou início operacional já no Livre (nasce no ACL).
 
 * Assinatura do CCVR: Assinatura do Contrato de Comercialização Varejista (CCVR) com o comercializador escolhido.
 
