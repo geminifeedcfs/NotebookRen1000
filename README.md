@@ -134,54 +134,7 @@ Consolidação regulatória pronta para consulta rápida na rotina da engenharia
 
 ---
 
-### 3. 🧰 Toolkit de Prompts Reutilizáveis
 
-Coleção de prompts otimizados para rápida consulta regulatória e apoio à consultoria técnica no dia a dia:
-
-#### 🟢 Prompt 1: Contestação de Erro de Faturamento / Devolução em Dobro
-```text
-Atue como engenheiro e especialista em regulação do setor elétrico. Analise a seguinte situação do meu cliente: [descreva o problema, ex: cobrança por estimativa incorreta / erro de alíquota].
-Com base no Capítulo de Faturamento da REN 1000/2021 da ANEEL:
-1. Identifique os artigos violados pela distribuidora.
-2. Calcule/Explique a regra de devolução em dobro (Art. 323) e os prazos de atualização.
-3. Elabore um parágrafo de contestação formal pronto para ser enviado à Ouvidoria.
-
-
-#### 🟢 Prompt 2: Defesa Contra Atraso no Parecer de Acesso de MMGD
-```text
-
-Atue como consultor regulatório. A distribuidora atrasou a entrega do Orçamento de Conexão/Parecer de Acesso da Unidade Consumidora [inserir potência em kW] com solicitação feita na data [inserir data].
-Com base na REN 1000/2021 e na Lei 14.300/2022:
-1. Qual era o prazo limite legal para a emissão do parecer?
-2. Quais são os direitos do acessante e compensações exigíveis?
-3. Redija um texto técnico de cobrança para ser protocolado na distribuidora.
-
-
-
-#### 🟢 Prompt 3: Matriz para Pedido de Ressarcimento de Danos (RDE)
-```text
-
-Consulte as regras do Capítulo de Ressarcimento de Danos Elétricos (RDE) da REN 1000/2021. Monte um checklist passo a passo contendo:
-- Prazos limite para o cliente fazer a solicitação.
-- Prazos de vistoria da distribuidora (perecíveis vs. não perecíveis).
-- Prazos de resposta e efetivação do pagamento.
-- Como proceder caso a distribuidora negue alegando 'falta de registro de perturbação'.
-
-
-#### 🟢 Prompt 4: Migração para o Mercado Livre (Adequação de Medição)
-```text
-
-Com base na REN 1000/2021, consulte as regras para adequação do Sistema de Medição para Faturamento (SMF) em migração de consumidores do Grupo A para o Mercado Livre (ACL). Liste:
-1. Prazos da distribuidora para adequar ou vistoriar a medição.
-2. Responsabilidades do consumidor vs. responsabilidades da distribuidora.
-3. Embasamento regulatório para impedir exigências de obras indevidas.
-
-
-
-#### 🟢 Prompt 5: Gerador de Estrutura de Mapa Mental (REN 1000)
-```text
-
-Atue como especialista em regulação do setor elétrico brasileiro. Crie a estrutura de um mapa mental sobre a Resolução Normativa ANEEL nº 1.000/2021 (REN 1000) contemplando os ramos principais: MMGD, Atendimento e Conexão, Faturamento e Medição, Direitos e Deveres, Qualidade do Fornecimento e Suspensão de Fornecimento. Formate em Markdown hierárquico limpo para importação em ferramentas visuais.
 
 
 
@@ -272,4 +225,59 @@ Nesta modalidade, a empresa migra para o Mercado Livre sem se associar diretamen
 ## 📧 Alguns e-mails e prompt
 
 
+
+
+
+### 3. 🧰 Toolkit de Prompts Reutilizáveis
+
+Coleção de prompts otimizados para rápida consulta regulatória e apoio à consultoria técnica no dia a dia:
+
+
+
+```text
+
+🟢 Prompt 1: Contestação de Erro de Faturamento / Devolução em Dobro
+
+Atue como engenheiro e especialista em regulação do setor elétrico. Analise a seguinte situação do meu cliente: [descreva o problema, ex: cobrança por estimativa incorreta / erro de alíquota].
+Com base no Capítulo de Faturamento da REN 1000/2021 da ANEEL:
+1. Identifique os artigos violados pela distribuidora.
+2. Calcule/Explique a regra de devolução em dobro (Art. 323) e os prazos de atualização.
+3. Elabore um parágrafo de contestação formal pronto para ser enviado à Ouvidoria.
+
+
+🟢 Prompt 2: Defesa Contra Atraso no Parecer de Acesso de MMGD
+
+
+Atue como consultor regulatório. A distribuidora atrasou a entrega do Orçamento de Conexão/Parecer de Acesso da Unidade Consumidora [inserir potência em kW] com solicitação feita na data [inserir data].
+Com base na REN 1000/2021 e na Lei 14.300/2022:
+1. Qual era o prazo limite legal para a emissão do parecer?
+2. Quais são os direitos do acessante e compensações exigíveis?
+3. Redija um texto técnico de cobrança para ser protocolado na distribuidora.
+
+
+
+🟢 Prompt 3: Matriz para Pedido de Ressarcimento de Danos (RDE)
+
+
+Consulte as regras do Capítulo de Ressarcimento de Danos Elétricos (RDE) da REN 1000/2021. Monte um checklist passo a passo contendo:
+- Prazos limite para o cliente fazer a solicitação.
+- Prazos de vistoria da distribuidora (perecíveis vs. não perecíveis).
+- Prazos de resposta e efetivação do pagamento.
+- Como proceder caso a distribuidora negue alegando 'falta de registro de perturbação'.
+
+
+🟢 Prompt 4: Migração para o Mercado Livre (Adequação de Medição)
+
+
+Com base na REN 1000/2021, consulte as regras para adequação do Sistema de Medição para Faturamento (SMF) em migração de consumidores do Grupo A para o Mercado Livre (ACL). Liste:
+1. Prazos da distribuidora para adequar ou vistoriar a medição.
+2. Responsabilidades do consumidor vs. responsabilidades da distribuidora.
+3. Embasamento regulatório para impedir exigências de obras indevidas.
+
+
+
+🟢 Prompt 5: Gerador de Estrutura de Mapa Mental (REN 1000)
+
+
+Atue como especialista em regulação do setor elétrico brasileiro. Crie a estrutura de um mapa mental sobre a Resolução Normativa ANEEL nº 1.000/2021 (REN 1000) contemplando os ramos principais: MMGD, Atendimento e Conexão, Faturamento e Medição, Direitos e Deveres, Qualidade do Fornecimento e Suspensão de Fornecimento. Formate em Markdown hierárquico limpo para importação em ferramentas visuais.
 
