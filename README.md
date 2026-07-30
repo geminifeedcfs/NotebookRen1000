@@ -247,8 +247,8 @@ Nesta modalidade, a empresa também torna-se agente associado da CCEE, assumindo
 ### 📋 Etapas de Migração:
 Mesmas eatapas  da Adesão como Consumidor Atacadista (Agente Direto / Autorrepresentado) e algumas adicionais
 
-* ONS:
-  ** Cadastro no sintegra (e-mail relacionamento.agentes@ons.org.br);
+#### ONS:
+* Cadastro no sintegra (e-mail relacionamento.agentes@ons.org.br);
 
 ```text
 Para: relacionamento.agentes@ons.org.br
@@ -264,7 +264,7 @@ e-mail:  – CPF
 Público: Geração
 ```
 
-  ** Solicitação da Classificação da usina;
+* Solicitação da Classificação da usina;
   *** Enviar Ato autorizativo, Diagrama unifilar, CCD ou CUSD e Orçamento de Conexão da Usina;
   *** Ato autorizativo = CEG
   *** CUSD se tiver o APE
@@ -276,7 +276,7 @@ Público: Geração
   ** Obtenção da DIR;
   ** https://www.ons.org.br/topo/acesso-restrito;
 
-* ANEEL:
+#### ANEEL:
 [Passo_a_Passo_Externo.1029_-_OT_e_OC_-_SFT.pdf](https://github.com/user-attachments/files/30556298/Passo_a_Passo_Externo.1029_-_OT_e_OC_-_SFT.pdf)
 
 Protocolo Digital: spd.aneel.gov.br
@@ -288,7 +288,7 @@ Protocolo Digital: spd.aneel.gov.br
     *** Elaboração do Relatório Fotográfico
   Obtenção do Despacho de Testes
   
-* EDP (ou concessionária local):
+#### EDP (ou concessionária local):
 * 
 ** Solicitar o Parecer de Acesso ACL;
 ** SMF:
@@ -299,7 +299,7 @@ Protocolo Digital: spd.aneel.gov.br
   *** Aprovação do Projeto na EDP;
   *** Contrato APE com a concessionária (CUSD APE);
 
-*   Montagem em campo
+####   Montagem em campo
   ** Suprimento: Telecom, medidor, quadro, TC e TP, etc.
   ** Agendamento com EDP ou concessionária local
   ** Agendamento com cliente
@@ -326,12 +326,12 @@ Protocolo Digital: spd.aneel.gov.br
 Alguns documentos e procedimentos padrões com a concessionárias local. Para a solicitação é necessário encaminhar documento de identificação, documento de constituição da empresa, CNPJ, procuração e etc.
 
 
-**  Compartilhamento de credito MMGD e Unidades Participantes:
+###  Compartilhamento de credito MMGD e Unidades Participantes:
 https://www.edponline.com.br/servicos/compartilhamento-de-credito-mmgd/Index
 
 [nova  unidades_participantes_distribuicao_por_porcentagens.xlsm](https://github.com/user-attachments/files/30555741/nova.unidades_participantes_distribuicao_por_porcentagens.xlsm)
 
-** Alteração de titularidade: 
+### Alteração de titularidade: 
 [Termo Alteração de Titularidade MANUAL- 11.09.24 (1) (1).pdf](https://github.com/user-attachments/files/30555719/Termo.Alteracao.de.Titularidade.MANUAL-.11.09.24.1.1.pdf)
 
 ```text
@@ -344,7 +344,7 @@ Documentação obrigatória:
 Dessa forma, é indispensável o envio de um documento que comprove a posse ou a propriedade do bem, possibilitando a validação da legitimidade da locação e do vínculo informado.
 ```
 
-** Desligamento programado: 
+### Desligamento programado: 
 
 ```text
 Boa tarde, prezados.
@@ -388,7 +388,7 @@ Descrição detalhada do(s) serviço(s) a ser(em) realizado(s):   desligamento p
 
 ## ⚡ CCEE: 
 
-* Operação em contenção:
+### Operação em contenção:
 
 [Cópia de Gerador_de_arquivo_XML-Contrato-AGENTE (2).xls](https://github.com/user-attachments/files/30556252/Copia.de.Gerador_de_arquivo_XML-Contrato-AGENTE.2.xls)
 
