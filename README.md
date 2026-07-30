@@ -165,24 +165,24 @@ Nesta modalidade, a empresa torna-se agente associado da CCEE, assumindo diretam
 * Abertura de Conta de Liquidação: Abertura de conta corrente específica no banco custodiante oficial da CCEE (Banco Bradesco) para liquidação no Mercado de Curto Prazo (MCP). 
 [Manual_Abertura de Contas Vinculadas.pdf](https://github.com/user-attachments/files/30551142/Manual_Abertura.de.Contas.Vinculadas.pdf)
 
-> * Apoio em: https://www.ccee.org.br/en/banco-custodiante
-> * Necessária Procuração com especificação de poder para abrir conta no Bradesco;
-> * Documentos: Documento de Constituição da Empresa; Documento de Identificação dos sócios; Comprovante de residência; Cartão CNPJ; Procuração (se necessário); Faturamento dos últimos 12 meses, devidamente assinado pelo
+ > * Apoio em: https://www.ccee.org.br/en/banco-custodiante
+ > * Necessária Procuração com especificação de poder para abrir conta no Bradesco;
+ > * Documentos: Documento de Constituição da Empresa; Documento de Identificação dos sócios; Comprovante de residência; Cartão CNPJ; Procuração (se necessário); Faturamento dos últimos 12 meses, devidamente assinado pelo
 contador, contendo o número do registro do CRC do Contador
-> * OBS: Para a abertura da conta, o banco exige exclusivamente documentos **nato-digitais** (aqueles gerados e emitidos eletronicamente pelo próprio órgão emissor). Cópias simples ou digitalizações de documentos físicos não são aceitas, sendo validadas unicamente mediante **autenticação em cartório**.
+ > * OBS: Para a abertura da conta, o banco exige exclusivamente documentos **nato-digitais** (aqueles gerados e emitidos eletronicamente pelo próprio órgão emissor). Cópias simples ou digitalizações de documentos físicos não são aceitas, sendo validadas unicamente mediante **autenticação em cartório**.
 
 
 * Habilitação Técnica (SMF): Adequação e homologação do Sistema de Medição para Faturamento (SMF) com a distribuidora local e validação na CCEE.
-> * Gerar e Pagamento do Emolumento;
-> * Modelagem do Ativo Carga;
-  *** Preenchimento de DHC;
-  *** Validação da DHC;
-> * Criar Perfil Carga;
-> * Solicitar para concessionária o mapeamento do ponto de medição 
-> * Solicitação do Parecer de Localização;
->      * Validação do parecer de localização; 
->      * Cadastro do ponto de medição;
->      * Validação do Ponto pela CCEE;
+ > * Gerar e Pagamento do Emolumento;
+ > * Modelagem do Ativo Carga;
+ >>    Preenchimento de DHC;
+ >>    Validação da DHC;
+ > * Criar Perfil Carga;
+ > * Solicitar para concessionária o mapeamento do ponto de medição 
+ > * Solicitação do Parecer de Localização;
+ >      * Validação do parecer de localização; 
+ >      * Cadastro do ponto de medição;
+ >      * Validação do Ponto pela CCEE;
 
 
 * Aprovação e Assinatura: Assinatura do Termo de Adesão e Convenção Arbitral, seguida da homologação do pedido pelo Conselho/Diretoria da CCEE.
@@ -224,8 +224,8 @@ Nesta modalidade, a empresa migra para o Mercado Livre sem se associar diretamen
 
 * Encargos: enviados diretamente pelo Comercializador Varejista.
 
->  Encargos CCEE funcionam como um rateio do setor elétrico. São custos divididos entre os agentes para cobrir despesas operacionais e de emergência, como ligar usinas térmicas para evitar apagões ou manter reservas de energia.
->   É o valor pago para garantir a estabilidade e a segurança de todo o sistema  elétrico!
+  >  Encargos CCEE funcionam como um rateio do setor elétrico. São custos divididos entre os agentes para cobrir despesas operacionais e de emergência, como ligar usinas térmicas para evitar apagões ou manter reservas de energia.
+  >   É o valor pago para garantir a estabilidade e a segurança de todo o sistema  elétrico!
 
 * Manutenção do CUSD: Manutenção do pagamento do Contrato de Uso do Sistema de Distribuição (CUSD) à distribuidora local.
 
