@@ -48,7 +48,7 @@ Para transformar esse cenário e otimizar a rotina de trabalho, os principais ob
 
 4. **Cartilha Informativa MMGD EDP:** [cartilha-edp-es.pdf](https://github.com/user-attachments/files/30549837/cartilha-edp-es.pdf)
 
-
+---
 
 ### 🎥 Fontes Complementares e Aplicadas (Análises em Vídeo)
 
@@ -131,7 +131,9 @@ Consolidação regulatória pronta para consulta rápida na rotina da engenharia
 | **RDE** | **Ressarcimento de Danos Elétricos:** Procedimento regulado para ressarcimento de equipamentos danificados por distúrbios na rede. |
 | **SCEE** | **Sistema de Compensação de Energia Elétrica:** Mecanismo em que a energia injetada é cedida para abater o consumo da unidade. |
 | **SMF** | **Sistema de Medição para Faturamento:** Conjunto de medidores e comunicação utilizados para registrar o consumo/injeção. |
-| **1 du** |  **primeiro dia útil** - primeiro dia útil 
+| **1 du** |  **primeiro dia útil** - primeiro dia útil. |
+| **CCEE** |  **Câmara de Comercialização de Energia Elétrica** - tem por finalidade viabilizar a comercialização de energia elétrica no mercado de energia brasileiro. |
+| **SCDE** |  **Sistema de Coleta de Dados de Energia** - é a plataforma oficial da CCEE. |
 ---
 
 
@@ -208,7 +210,7 @@ Nesta modalidade, a empresa migra para o Mercado Livre sem se associar diretamen
 
 * Notificação à Distribuidora (Carta Denúncia): Envio de notificação formal de rescisão do contrato de fornecimento regulado à distribuidora local, respeitando os prazos regulatórios previstos.
 
-** 6 Meses antes do fim da vigência ou início operacional já no Livre (nasce no ACL).
+>  6 Meses antes do fim da vigência ou início operacional já no Livre (nasce no ACL).
 
 * Assinatura do CCVR: Assinatura do Contrato de Comercialização Varejista (CCVR) com o comercializador escolhido.
 
@@ -222,8 +224,8 @@ Nesta modalidade, a empresa migra para o Mercado Livre sem se associar diretamen
 
 * Encargos: enviados diretamente pelo Comercializador Varejista.
 
-**Encargos CCEE funcionam como um rateio do setor elétrico. São custos divididos entre os agentes para cobrir despesas operacionais e de emergência, como ligar usinas térmicas para evitar apagões ou manter reservas de energia.
-É o valor pago para garantir a estabilidade e a segurança de todo o sistema  elétrico!
+>  Encargos CCEE funcionam como um rateio do setor elétrico. São custos divididos entre os agentes para cobrir despesas operacionais e de emergência, como ligar usinas térmicas para evitar apagões ou manter reservas de energia.
+>   É o valor pago para garantir a estabilidade e a segurança de todo o sistema  elétrico!
 
 * Manutenção do CUSD: Manutenção do pagamento do Contrato de Uso do Sistema de Distribuição (CUSD) à distribuidora local.
 
@@ -245,7 +247,7 @@ Nesta modalidade, a empresa também torna-se agente associado da CCEE, assumindo
 Mesmas eatapas  da Adesão como Consumidor Atacadista (Agente Direto / Autorrepresentado) e algumas adicionais
 
 #### ONS:
-    1.  Cadastro no sintegra (e-mail relacionamento.agentes@ons.org.br);
+1.  Cadastro no sintegra (e-mail relacionamento.agentes@ons.org.br);
 
 ```text
 Para: relacionamento.agentes@ons.org.br
@@ -261,7 +263,7 @@ e-mail:  – CPF
 Público: Geração
 ```
 
-  2. Solicitação da Classificação da usina;
+2. Solicitação da Classificação da usina;
 * Enviar Ato autorizativo, Diagrama unifilar, CCD ou CUSD e Orçamento de Conexão da Usina;
 * Ato autorizativo = CEG;
 * CUSD se tiver o APE;
@@ -270,8 +272,8 @@ Público: Geração
 * Não é UTE;
 * Fotovoltaicos;
   
-  3. Obtenção da DIR;
-  4.  https://www.ons.org.br/topo/acesso-restrito;
+3. Obtenção da DIR;
+4.  https://www.ons.org.br/topo/acesso-restrito;
 
 #### ANEEL:
 [Passo_a_Passo_Externo.1029_-_OT_e_OC_-_SFT.pdf](https://github.com/user-attachments/files/30556298/Passo_a_Passo_Externo.1029_-_OT_e_OC_-_SFT.pdf)
@@ -303,15 +305,9 @@ Protocolo Digital: spd.aneel.gov.br
   * Contratação e Logística com montador
   * Montagem em campo 
 
-#### 6 Meses antes do fim da vigência ou início operacional já no Livre (nasce no ACL).
-
-* Assinatura do CCVR: Assinatura do Contrato de Comercialização Varejista (CCVR) com o comercializador escolhido.
-
-* Adequação da Medição: Adequação da infraestrutura de medição (telemedição), conduzida junto à distribuidora local.
-
-* Modelagem Simplificada na CCEE: O Comercializador Varejista realiza a vinculação e cadastro da Unidade Consumidora no sistema da CCEE através do Modelo Simplificado via API.
 
 
+---
 
 
 
@@ -324,9 +320,9 @@ Alguns documentos e procedimentos padrões com a concessionárias local. Para a 
 
 
 ###  Compartilhamento de credito MMGD e Unidades Participantes:
-https://www.edponline.com.br/servicos/compartilhamento-de-credito-mmgd/Index
+Link: https://www.edponline.com.br/servicos/compartilhamento-de-credito-mmgd/Index
 
-[nova  unidades_participantes_distribuicao_por_porcentagens.xlsm](https://github.com/user-attachments/files/30555741/nova.unidades_participantes_distribuicao_por_porcentagens.xlsm)
+Planilha: [nova  unidades_participantes_distribuicao_por_porcentagens.xlsm](https://github.com/user-attachments/files/30555741/nova.unidades_participantes_distribuicao_por_porcentagens.xlsm)
 
 ### Alteração de titularidade: 
 [Termo Alteração de Titularidade MANUAL- 11.09.24 (1) (1).pdf](https://github.com/user-attachments/files/30555719/Termo.Alteracao.de.Titularidade.MANUAL-.11.09.24.1.1.pdf)
@@ -379,9 +375,10 @@ Descrição detalhada do(s) serviço(s) a ser(em) realizado(s):   desligamento p
 
 ```
 
-** Formulário atualizado 2026:  [Formulário de Atendimento MT_2026 NOVO.xlsx](https://github.com/user-attachments/files/30556140/Formulario.de.Atendimento.MT_2026.NOVO.xlsx)
+### Formulário atualizado 2026: 
+Solicitações em geral: [Formulário de Atendimento MT_2026 NOVO.xlsx](https://github.com/user-attachments/files/30556140/Formulario.de.Atendimento.MT_2026.NOVO.xlsx)
 
-
+---
 
 ## ⚡ CCEE: 
 
@@ -389,12 +386,115 @@ Descrição detalhada do(s) serviço(s) a ser(em) realizado(s):   desligamento p
 
 [Cópia de Gerador_de_arquivo_XML-Contrato-AGENTE (2).xls](https://github.com/user-attachments/files/30556252/Copia.de.Gerador_de_arquivo_XML-Contrato-AGENTE.2.xls)
 
+---
+
+## 📅📆🗓  Calendário e Rotinas:
+
+## Calendário CCEE: https://www.ccee.org.br/en/calendario
+
+### 30 / 31 - Último dia do Mês: 
+* Verificar a saúde de medição internamente no server, comparar com SCDE e cobrar responsáveis.
+
+### 01 - Primeiro dia útil:
+* Conferir Calendário CCEE;
+* Consolidação de dados de consumo: cruzamento informações internas, saúde de medição e SCDE. (clientes com 80% a 100% de saúde de medição)
+>  Acrescentar 3% Perdas;
+>  Retirar ProInfra;
+
+* Verificar quais contratos e Montantes Executaremos:
+>  Se as contratações estão dentro dos contratos padrões, se estão expostos e etc.
+
+### 02 - Segundo dia útil:
+* Enviar montantes que executaremos a cada comercializadora
+* Emitir boleto de Gestão e Aluguel (Competência OE); (cliente paga até 6du)
+  
+### 03 - Terceiro dia útil:
+
+* Geralmente recebimento NF da comercializadora (conferir se em conformidade);
+* Encaminhar a Duplicata ao cliente - cronograma de pagamento - Pagar até 6 du (padrão de mercado);
+
+### 04 - Quarto dia útil:
+* Pendências e outras atividades;
+
+### 05 - Quinto dia útil:
+* Pendências e outras atividades;
+
+### 06 - Sexto dia útil:
+* Verificar quem pagou OE e inadimplentes;
+* Confirmar pagamento de energia: Cliente - Comercializadora;
+* PRAZO MÁXIMO:  Registro de contratos CCEE;
+  
+### 07 - Sétimo dia útil:
+* Validação registro Contratos CCEE;
+
+### 08 - Oitavo dia útil:
+* Ajuste de montantes Contratos CCEE;
+
+
+### 09 - Nono dia útil:
+* Validação ajuste de montantes Contratos CCEE
+
+### 10 - Décimo dia útil:
+
+### 11 - Décimo primeiro dia útil:
+
+### 12 - Décimo segundo dia útil:
+### 13 - Décimo terceiro dia útil:
+
+### 14 - Décimo quarto dia útil:
+### 15 - Décimo quinto dia útil:
+* Começar a upar faturas;
+* Começar a desenvolver Relatórios economia ao cliente; (softwares, dash e planilhas internas);
+* Verificar encargos e enviar ao Cliente (solicitar depósito);
+
+
+### 16 - Décimo sexto dia útil:
+* Faturas e demonstrativos ULT;
+* Faturar e enviar aos clientes;
+  
+### 17 - Décimo sétimo dia útil:
+*  Conferência do envio;
+*  Pendências ULT;
+*  Conferir planilhas e ajustes;
+  
+### 18 - Décimo oitavo dia útil:
+* Solver ULT;
+### 19 - Décimo nono dia útil:
+
+### 20 - Vigésimo dia útil:
+* Verificar descontos estão corretos (DRI / Pegar rotina com Marcos);
+* Dashboard economia, enviar ao cliente;
+  
+### 21 - Vigésimo primeiro dia útil:
+
+*  Entrada de novos clientes e geradores ULT;
+*  Saída de clientes;
+  
+### 22 - Vigésimo segundo dia útil:
+*  Pendências documentos ULT;
+### 23 - Vigésimo terceiro dia útil:
+*  Pendências Solicitações ULT;
+
+### 24 - Vigésimo quarto dia útil:
+### 25 - Vigésimo quinto dia útil:
+### 26 - Vigésimo sexto dia útil:
+### 27 - Vigésimo sétimo dia útil:
+### 28 - Vigésimo oitavo dia útil:
+### 29 - Vigésimo nono dia útil:
+* Cobrar contribuição Associativa (enviado automaticamente / verificar inadimplência);
+  
+### 30 - Trigésimo dia útil:
+
+---
+
+
+
 
 ## 📧 Alguns e-mails e prompt
 
 
 
-
+---
 
 ### 🧰 Toolkit de Prompts Reutilizáveis
 
@@ -449,10 +549,11 @@ Com base na REN 1000/2021, consulte as regras para adequação do Sistema de Med
 
 Atue como especialista em regulação do setor elétrico brasileiro. Crie a estrutura de um mapa mental sobre a Resolução Normativa ANEEL nº 1.000/2021 (REN 1000) contemplando os ramos principais: MMGD, Atendimento e Conexão, Faturamento e Medição, Direitos e Deveres, Qualidade do Fornecimento e Suspensão de Fornecimento. Formate em Markdown hierárquico limpo para importação em ferramentas visuais.
 ```
-
+---
 
 ## Próximos passos:
 
-Adicionar o caléndário
-campo do gerar e etapas
-Ceg
+> Adicionar o calendário
+> campo do gerar e etapas
+> Ceg
+---
