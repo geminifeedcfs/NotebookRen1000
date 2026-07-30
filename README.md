@@ -117,6 +117,65 @@ Consolidação regulatória pronta para consulta rápida na rotina da engenharia
 * **Corte por Inadimplência:** Exige **notificação prévia por escrito com no mínimo 15 dias de antecedência**. É vedada a suspensão em sextas-feiras, sábados, domingos, feriados e vésperas.
 * **Ressarcimento de Danos Elétricos (RDE):** Prazo de até **5 anos** para solicitação. A vistoria pela distribuidora deve ocorrer em até **1 dia útil** (equipamentos de alimentos/medicamentos) ou **10 dias úteis** (demais casos).
 
+#### 🅲 Microgeração e Minigeração Distribuída (MMGD)
+
+A Microgeração e Minigeração Distribuída (MMGD) refere-se à produção de energia elétrica realizada pelos próprios consumidores (prosumidores), em local próximo ou junto à própria carga, utilizando fontes renováveis ou cogeração qualificada.
+
+Este glossário reúne os termos técnicos, regulatórios (com base no Marco Legal da Geração Distribuída - Lei 14.300/2022) e operacionais mais importantes desse segmento.
+
+##### Definições Básicas e Enquadramento
+* **MMGD (Micro e Minigeração Distribuída):**  Sigla geral para o segmento de geração própria conectado à rede de distribuição.
+*  **Microgeração Distribuída:** Central geradora com potência instalada menor ou igual a 75 kW.
+*  **Minigeração Distribuída:** Central geradora com potência instalada superior a 75 kW e menor ou igual a 3 MW (para fontes não despacháveis, como solar) ou 5 MW (para fontes despacháveis, como biomassa, hídrica e cogeração qualificada).
+*  **Prosumidor (ou Consumidor-Gerador):** Agente do setor elétrico que não apenas consome, mas também gera sua própria energia elétrica.
+
+
+##### Modalidades de Compensação
+
+*  **Geração Junto à Carga:** A unidade geradora é instalada no mesmo local/UC onde a energia é consumida.
+
+*  **Autoconsumo Remoto:** A unidade geradora e a(s) unidade(s) consumidora(s) estão em locais diferentes, mas pertencem à mesma titularidade (mesmo CPF ou CNPJ) e dentro da mesma área de concessão da distribuidora.
+
+*  **EMUC (Empreendimento com Múltiplas Unidades Consumidoras):** Instalação em que a geração é compartilhada entre as frações de um mesmo imóvel (ex: condomínios residenciais ou comerciais).
+
+*  **Geração Compartilhada:** Reunião de consumidores (CPFs ou CNPJ diferentes) por meio de consórcio, cooperativa, associação ou condomínio para uso da energia gerada por uma central de minigeração comum.
+
+
+
+
+#####  Regulamentação e Legislação
+*   **Lei 14.300/2022:** Marco Legal da Microgeração e Minigeração Distribuída no Brasil, que definiu o SCEE e as regras de transição tarifária.
+*   **REN 1.000/2021 (ANEEL):** Resolução Normativa que consolida os direitos e deveres dos consumidores e demais usuários dos serviços de distribuição de energia.
+*   **SCEE (Sistema de Compensação de Energia Elétrica):*** Arranjo regulatório que permite que a energia injetada na rede pela MMGD seja convertida em créditos de energia abatidos do consumo futuro.
+
+  
+#####  Conceitos Operacionais e Técnicos
+
+*   **Injeção de Energia:** Volume de energia (medido em kWh) produzido pela MMGD que não é consumido instantaneamente no local e é enviado para a rede elétrica da distribuidora.
+
+*   **Autoconsumo Instantâneo:** Energia gerada pela MMGD e consumida imediatamente no local antes de passar pelo medidor de energia.
+
+*   **Crédito de Energia:** Saldo gerado quando a injeção supera o consumo do mês. Esse saldo é medido em kWh e pode ser utilizado para abater o consumo nos meses seguintes (validade de até 60 meses).
+
+*   **Parecer de Acesso:** Documento formal emitido pela distribuidora informando as condições técnicas e o ponto de conexão necessários para ligar o sistema de MMGD à rede.
+
+*   **Aviso de Recebimento / Solicitação de Acesso:** Etapa inicial do processo onde o cliente/projetista formaliza o pedido de conexão junto à distribuidora.
+
+
+
+
+
+
+#####  Custos, Tarifas e Encargos
+
+*   **Fio B (TUSD Fio B):** Parcela da Tarifa de Uso do Sistema de Distribuição que remunera o ativo e a operação da rede de distribuição. A Lei 14.300 definiu a cobrança gradativa do Fio B sobre a energia injetada.
+
+*   **Custo de Disponibilidade:** Valor mínimo cobrado pela distribuidora pelo serviço de conexão à rede (equivalente à taxa mínima por tipo de ligação: monofásica, bifásica ou trifásica).
+
+*   **Garantia de Fiel Cumpimento:** Depósito ou fiança exigido para projetos de minigeração (acima de 500 kW) para assegurar o cumprimento do cronograma de implantação da usina.
+
+*   **Inversão de Fluxo:** Fenômeno elétrico que ocorre quando a potência gerada pela MMGD supera a demanda local, fazendo o fluxo de potência "voltar" em direção à subestação. É um dos principais temas em análise técnica nas distribuidoras.
+
 ---
 
 ### 📖 Glossário de Conceitos-Chave
@@ -130,10 +189,29 @@ Consolidação regulatória pronta para consulta rápida na rotina da engenharia
 | **Parecer de Acesso** | Documento emitido pela distribuidora informando viabilidade técnica, ponto de conexão e obras necessárias. |
 | **RDE** | **Ressarcimento de Danos Elétricos:** Procedimento regulado para ressarcimento de equipamentos danificados por distúrbios na rede. |
 | **SCEE** | **Sistema de Compensação de Energia Elétrica:** Mecanismo em que a energia injetada é cedida para abater o consumo da unidade. |
-| **SMF** | **Sistema de Medição para Faturamento:** Conjunto de medidores e comunicação utilizados para registrar o consumo/injeção. |
-| **1 du** |  **primeiro dia útil** - primeiro dia útil. |
+| **SMF** | **Sistema de Medição para Faturamento:** Conjunto de medidores, transformadores de medição e canais de comunicação instalados no ponto de conexão para apurar o consumo e a geração reais. |
+| **1 du** |  **Primeiro dia útil** - Primeiro dia útil. |
+| **TUSD** |  **Tarifa de Uso do Sistema de Distribuição** -Valor pago à distribuidora pelo uso da rede de fios para transporte da energia física. |
+| **TUST** |  **Tarifa de Uso do Sistema de Transmissão** -Valor pago pelo uso da rede básica de alta tensão (linhas de transmissão). |
+| **ESS** |  **Encargos de Serviço do Sistema** - Custo relativo à manutenção da segurança do sistema elétrico (ex: acionamento de térmicas fora da ordem de mérito econômico), rateado entre os agentes. |
+| **EER** |  **Encargo de Energia de Reserva** - Encargo destinado a cobrir custos de contratação de energia de reserva para aumentar a segurança do fornecimento de energia no SIN. |
 | **CCEE** |  **Câmara de Comercialização de Energia Elétrica** - tem por finalidade viabilizar a comercialização de energia elétrica no mercado de energia brasileiro. |
 | **SCDE** |  **Sistema de Coleta de Dados de Energia** - é a plataforma oficial da CCEE. |
+| **SIGA CCEE** |  **Sistema de Gestão de Aportes e Garantias da CCEE** - plataforma/módulo da CCEE responsável por gerenciar e monitorar as garantias financeiras das operações dos agentes no mercado elétrico. |
+| **ANEEL** |  **Agência Nacional de Energia Elétrica** - Autarquia vinculada ao Ministério de Minas e Energia (MME) que regulamenta e fiscaliza a produção, transmissão, distribuição e comercialização de energia elétrica no país. |
+| **MME** |  **Ministério de Minas e Energia** - Órgão do governo federal responsável pela formulação de políticas públicas do setor energético brasileiro. |
+| **SIN** |  **Sistema Interligado Nacional** - Malha de transmissão e geração que interconecta quase todo o território brasileiro, dividida em quatro subsistemas principais: Norte, Nordeste, Sudeste/Centro-Oeste e Sul. |
+| **ONS** |  **Operador Nacional do Sistema Elétrico** - Entidade privada responsável por coordenar e controlar a operação das instalações de geração e transmissão de energia elétrica no Sistema Interligado Nacional (SIN). |
+| **Consumidor Livre** |   Consumidor de alta ou média tensão que pode escolher livremente seu fornecedor e contratar qualquer fonte de energia (convencional ou incentivada). |
+| **Consumidor Especial** |  Categoria histórica (em fase de convergência) de consumidores com menor demanda que só podiam comprar energia de fontes renováveis (incentivadas). |
+| **Comercializador Varejista** |  Agente credenciado na CCEE habilitado a representar consumidores e geradores de menor porte perante a Câmara, assumindo as obrigações operacionais e financeiras de contabilização. |
+| **Gerador** |   Agente detentor de autorização ou concessão para produzir e vender energia no mercado. |
+| **PLD** |  **Preço de Liquidação das Diferenças** - Valor fixado semanalmente/diariamente pela CCEE (em R$/MWh) utilizado para valorar a energia não contratada ou vendida em excesso pelas partes no mercado de curto prazo. |
+| **MCP** |  **Mercado de Curto Prazo** - Âmbito em que a CCEE contabiliza as diferenças entre os montantes de energia contratados e os efetivamente gerados ou consumidos pelos agentes. |
+| **Garantia Financeira** |   Montante de segurança (dinheiro, carta de fiança, título) que os agentes devem aportar para cobrir eventuais inadimplências no Mercado de Curto Prazo. |
+| **Sazonalização** |   Distribuição do volume anual do contrato de energia ao longo dos meses do ano para acompanhar as variações sazonais de consumo/geração. |
+| **Flexibilização** |   Margem de variação percentual (ex: +10% / -10%) permitida em contrato para que o consumidor possa variar o consumo sem penalidades. |
+
 ---
 
 
@@ -175,8 +253,8 @@ contador, contendo o número do registro do CRC do Contador
 * Habilitação Técnica (SMF): Adequação e homologação do Sistema de Medição para Faturamento (SMF) com a distribuidora local e validação na CCEE.
  > * Gerar e Pagamento do Emolumento;
  > * Modelagem do Ativo Carga;
- >>    Preenchimento de DHC;
- >>    Validação da DHC;
+ >>  *  Preenchimento de DHC;
+ >>  *  Validação da DHC;
  > * Criar Perfil Carga;
  > * Solicitar para concessionária o mapeamento do ponto de medição 
  > * Solicitação do Parecer de Localização;
@@ -210,7 +288,7 @@ Nesta modalidade, a empresa migra para o Mercado Livre sem se associar diretamen
 
 * Notificação à Distribuidora (Carta Denúncia): Envio de notificação formal de rescisão do contrato de fornecimento regulado à distribuidora local, respeitando os prazos regulatórios previstos.
 
->  6 Meses antes do fim da vigência ou início operacional já no Livre (nasce no ACL).
+   >  6 Meses antes do fim da vigência ou início operacional já no Livre (nasce no ACL).
 
 * Assinatura do CCVR: Assinatura do Contrato de Comercialização Varejista (CCVR) com o comercializador escolhido.
 
@@ -246,7 +324,7 @@ Nesta modalidade, a empresa também torna-se agente associado da CCEE, assumindo
 ### 📋 Etapas de Migração:
 Mesmas eatapas  da Adesão como Consumidor Atacadista (Agente Direto / Autorrepresentado) e algumas adicionais
 
-#### ONS:
+#### 🟩  ONS:
 1.  Cadastro no sintegra (e-mail relacionamento.agentes@ons.org.br);
 
 ```text
@@ -264,18 +342,18 @@ Público: Geração
 ```
 
 2. Solicitação da Classificação da usina;
-* Enviar Ato autorizativo, Diagrama unifilar, CCD ou CUSD e Orçamento de Conexão da Usina;
-* Ato autorizativo = CEG;
-* CUSD se tiver o APE;
-* Usina de capacidade reduzida, atualmente no regime MMGD em migração para ACL;
-* Ponto de entrega UC;
-* Não é UTE;
-* Fotovoltaicos;
+  * Enviar Ato autorizativo, Diagrama unifilar, CCD ou CUSD e Orçamento de Conexão da Usina;
+  * Ato autorizativo = CEG;
+  * CUSD se tiver o APE;
+  * Usina de capacidade reduzida, atualmente no regime MMGD em migração para ACL;
+  * Ponto de entrega UC;
+  * Não é UTE;
+  * Fotovoltaicos;
   
 3. Obtenção da DIR;
 4.  https://www.ons.org.br/topo/acesso-restrito;
 
-#### ANEEL:
+#### 🟦  ANEEL:
 [Passo_a_Passo_Externo.1029_-_OT_e_OC_-_SFT.pdf](https://github.com/user-attachments/files/30556298/Passo_a_Passo_Externo.1029_-_OT_e_OC_-_SFT.pdf)
 
 Protocolo Digital: spd.aneel.gov.br
@@ -287,7 +365,7 @@ Protocolo Digital: spd.aneel.gov.br
      * Elaboração do Relatório Fotográfico;
    4. Obtenção do Despacho de Testes;
   
-#### EDP (ou concessionária local):
+#### 🟨  EDP (ou concessionária local):
  
 1.  Solicitar o Parecer de Acesso ACL;
 2. SMF:
@@ -298,7 +376,7 @@ Protocolo Digital: spd.aneel.gov.br
  *   Aprovação do Projeto na EDP;
  *   Contrato APE com a concessionária (CUSD APE);
 
-####   Montagem em campo
+#### 🟫  Montagem em campo
   * Suprimento: Telecom, medidor, quadro, TC e TP, etc.
   * Agendamento com EDP ou concessionária local
   * Agendamento com cliente
@@ -314,7 +392,7 @@ Protocolo Digital: spd.aneel.gov.br
 
 ## ⚡ Procedimentos Operacionais com a Concessionária: 
 
-## EDP
+##  🟨 EDP
 
 Alguns documentos e procedimentos padrões com a concessionárias local. Para a solicitação é necessário encaminhar documento de identificação, documento de constituição da empresa, CNPJ, procuração e etc.
 
@@ -380,7 +458,7 @@ Solicitações em geral: [Formulário de Atendimento MT_2026 NOVO.xlsx](https://
 
 ---
 
-## ⚡ CCEE: 
+##  🟦🟨  ⚡ CCEE: 
 
 ### Operação em contenção:
 
@@ -393,46 +471,46 @@ Solicitações em geral: [Formulário de Atendimento MT_2026 NOVO.xlsx](https://
 ## Calendário CCEE: https://www.ccee.org.br/en/calendario
 
 ### 30 / 31 - Último dia do Mês: 
-* Verificar a saúde de medição internamente no server, comparar com SCDE e cobrar responsáveis.
+* Verificar a saúde de medição internamente no server, comparar com SCDE e cobrar responsáveis.    🟦
 
 ### 01 - Primeiro dia útil:
-* Conferir Calendário CCEE;
-* Consolidação de dados de consumo: cruzamento informações internas, saúde de medição e SCDE. (clientes com 80% a 100% de saúde de medição)
+* Conferir Calendário CCEE;  🟦
+* Consolidação de dados de consumo: cruzamento informações internas, saúde de medição e SCDE. (clientes com 80% a 100% de saúde de medição) 🟦
   >  Acrescentar 3% Perdas;
   >  Retirar ProInfra;
 
-* Verificar quais contratos e Montantes Executaremos:
-  >  Se as contratações estão dentro dos contratos padrões, se estão expostos e etc.
+* Verificar quais contratos e Montantes Executaremos: 🟦
+  >  Se as contratações estão dentro dos contratos padrões, se estão expostos e etc. 🟦
 
 ### 02 - Segundo dia útil:
-* Enviar montantes que executaremos a cada comercializadora
-* Emitir boleto de Gestão e Aluguel (Competência OE); (cliente paga até 6du)
+* Enviar montantes que executaremos a cada comercializadora; 🟦
+* Emitir boleto de Gestão e Aluguel (Competência OE); (cliente paga até 6du)  🟦
   
 ### 03 - Terceiro dia útil:
 
-* Geralmente recebimento NF da comercializadora (conferir se em conformidade);
-* Encaminhar a Duplicata ao cliente - cronograma de pagamento - Pagar até 6 du (padrão de mercado);
+* Geralmente recebimento NF da comercializadora (conferir se em conformidade);   🟦
+* Encaminhar a Duplicata ao cliente - cronograma de pagamento - Pagar até 6 du (padrão de mercado);   🟦
 
 ### 04 - Quarto dia útil:
-* Pendências e outras atividades;
+* Pendências e outras atividades;   🟦
 
 ### 05 - Quinto dia útil:
-* Pendências e outras atividades;
+* Pendências e outras atividades;   🟦
 
 ### 06 - Sexto dia útil:
-* Verificar quem pagou OE e inadimplentes;
-* Confirmar pagamento de energia: Cliente - Comercializadora;
-* PRAZO MÁXIMO:  Registro de contratos CCEE;
+* Verificar quem pagou OE e inadimplentes;   🟦
+* Confirmar pagamento de energia: Cliente - Comercializadora;   🟦
+* PRAZO MÁXIMO:  Registro de contratos CCEE;   🟦
   
 ### 07 - Sétimo dia útil:
-* Validação registro Contratos CCEE;
+* Validação registro Contratos CCEE;    🟦
 
 ### 08 - Oitavo dia útil:
-* Ajuste de montantes Contratos CCEE;
+* Ajuste de montantes Contratos CCEE;    🟦
 
 
 ### 09 - Nono dia útil:
-* Validação ajuste de montantes Contratos CCEE
+* Validação ajuste de montantes Contratos CCEE;   🟦 
 
 ### 10 - Décimo dia útil:
 
@@ -443,37 +521,37 @@ Solicitações em geral: [Formulário de Atendimento MT_2026 NOVO.xlsx](https://
 
 ### 14 - Décimo quarto dia útil:
 ### 15 - Décimo quinto dia útil:
-* Começar a upar faturas;
-* Começar a desenvolver Relatórios economia ao cliente; (softwares, dash e planilhas internas);
-* Verificar encargos e enviar ao Cliente (solicitar depósito);
+* Começar a upar faturas;   🟦
+* Começar a desenvolver Relatórios economia ao cliente; (softwares, dash e planilhas internas);   🟦
+* Verificar encargos e enviar ao Cliente (solicitar depósito);   🟦
 
 
 ### 16 - Décimo sexto dia útil:
-* Faturas e demonstrativos ULT;
-* Faturar e enviar aos clientes;
+* Faturas e demonstrativos ULT;    🟩
+* Faturar e enviar aos clientes;    🟩
   
 ### 17 - Décimo sétimo dia útil:
-*  Conferência do envio;
-*  Pendências ULT;
-*  Conferir planilhas e ajustes;
+*  Conferência do envio;   🟩
+*  Pendências ULT;    🟩
+*  Conferir planilhas e ajustes;    🟩
   
 ### 18 - Décimo oitavo dia útil:
-* Solver ULT;
+* Solver ULT;   🟩
 ### 19 - Décimo nono dia útil:
 
 ### 20 - Vigésimo dia útil:
-* Verificar descontos estão corretos (DRI / Pegar rotina com Marcos);
-* Dashboard economia, enviar ao cliente;
+* Verificar descontos estão corretos (DRI / Pegar rotina com Marcos);    🟦
+* Dashboard economia, enviar ao cliente;     🟦
   
 ### 21 - Vigésimo primeiro dia útil:
 
-*  Entrada de novos clientes e geradores ULT;
-*  Saída de clientes;
+*  Entrada de novos clientes e geradores ULT;    🟩
+*  Saída de clientes;    🟩
   
 ### 22 - Vigésimo segundo dia útil:
-*  Pendências documentos ULT;
+*  Pendências documentos ULT;    🟩
 ### 23 - Vigésimo terceiro dia útil:
-*  Pendências Solicitações ULT;
+*  Pendências Solicitações ULT;    🟩
 
 ### 24 - Vigésimo quarto dia útil:
 ### 25 - Vigésimo quinto dia útil:
@@ -481,16 +559,24 @@ Solicitações em geral: [Formulário de Atendimento MT_2026 NOVO.xlsx](https://
 ### 27 - Vigésimo sétimo dia útil:
 ### 28 - Vigésimo oitavo dia útil:
 ### 29 - Vigésimo nono dia útil:
-* Cobrar contribuição Associativa (enviado automaticamente / verificar inadimplência);
+* Cobrar contribuição Associativa (enviado automaticamente / verificar inadimplência);    🟦
   
 ### 30 - Trigésimo dia útil:
-
+* Verificar a saúde de medição internamente no server, comparar com SCDE e cobrar responsáveis.    🟦
 ---
 
 
 
 
 ## 📧 Alguns e-mails e prompt
+
+
+
+
+
+
+
+
 
 
 
