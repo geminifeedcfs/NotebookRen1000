@@ -1,46 +1,70 @@
-# Caderno Temático: Regulação do Setor Elétrico — REN 1000/2021 ANEEL, MMGD e Mercado Livre
+# Caderno Temático: Regulação do Setor Elétrico — REN 1000/2021 ANEEL, MMGD e Mercado Livre 
 
-Este repositório documenta a construção de um **Caderno Temático inteligente no NotebookLM**, projetado para atuar como um assistente de consulta rápida regulatória na prática da Engenharia Elétrica, gestão de clientes, consultoria autônoma e defesa contra abusos de distribuidoras de energia elétrica.
+Este repositório atua como um Caderno Temático e Base de Conhecimento voltado para a prática diária em Engenharia Elétrica, focado especificamente nas seguintes frentes operacionais e regulatórias:
 
+1. **Mercado Livre de Energia (ACL):** Migração de clientes, gestão de energia e cumprimento rigoroso das obrigações perante a CCEE. Inclui a conferência de encargos, gestão e revisão de faturas (comercializadora e concessionária), além da condução de processos de adesão de perfis (varejista ou atacadista) e gestão e homologação de Autoprodutores de Energia (APE).
+
+2. **Micro e Minigeração Distribuída (MMGD):** Gestão de saldos de energia, distribuição estratégica de créditos, faturamento para clientes receptores da geradora, conferência minuciosa das tarifas e créditos aplicados pela concessionária e condução de pedidos de regularização de faturas.
+
+3. **Relação com Concessionárias (Distribuidoras):** Resolução de problemas operacionais e comerciais, gestão de prazos, contestação de faturamento incorreto e acompanhamento de homologações. Engloba também a gestão de Acordos Operativos (para APE), alteração de demanda, revisão de faturas e a aplicação prática da Resolução Normativa (REN) nº 1.000/2021 da ANEEL.
+
+4. **Multas e Compensações:** Monitoramento rigoroso e exigência de compensações financeiras devido ao descumprimento de prazos, metas ou indicadores regulatórios por parte da concessionária, garantindo a defesa dos direitos das unidades consumidoras e geradoras.
+
+5. **Produtividade e Engenharia de Prompts:** Centralização de ferramentas, calendários, templates de ofícios e comandos de Inteligência Artificial desenhados para otimizar o tempo em análises complexas, redações de e-mails para as distribuidoras e consultas rápidas de normas.
 ---
 
 ## 📌 Contexto e Objetivos
 
 ### 🎯 Contexto
-Na atuação técnica e comercial com o **Mercado Livre de Energia (ACL)** e a **Micro e Minigeração Distribuída (MMGD)**, enfrentar gargalos operacionais no relacionamento com as distribuidoras de energia é uma rotina. Entre os desafios mais recorrentes na gestão e consultoria estão:
+Na atuação técnica e consultiva com o **Mercado Livre de Energia ou Ambiente Livre de Contratação (ACL)** e a **Micro e Minigeração Distribuída (MMGD)** , enfrentar gargalos operacionais no relacionamento com as distribuidoras de energia é um desafio diário. Entre os problemas burocráticos e técnicos mais recorrentes, destacam-se:
 
-* **Erros de Faturamento e Medição:** Cobranças indevidas, estimativas incorretas de consumo, divergências na aplicação tarifária e falhas no faturamento bidirecional;
-* **Descumprimento de Prazos:** Atrasos na emissão de Pareceres de Acesso/Orçamentos de Conexão, vistorias, trocas de titularidade e adequações de medição para migração ao Mercado Livre;
-* **Negativas Unilaterais e Exigências Indevidas:** Barreiras burocráticas e indeferimentos de solicitações sem o devido embasamento regulatório por parte dos canais de atendimento das concessionárias.
+* **Erros de Faturamento e Medição:** Cobranças indevidas, estimativas incorretas de consumo, divergências na aplicação tarifária e falhas no faturamento bidirecional e na compensação de saldos;
+* **Descumprimento de Prazos:** Atrasos na emissão de Pareceres de Acesso/Orçamentos de Conexão, vistorias, trocas de titularidade e adequações de medição essenciais para a migração ao Mercado Livre;
+* **Negativas Unilaterais e Exigências Indevidas:** Barreiras operacionais e indeferimentos de solicitações sem o devido embasamento regulatório por parte dos canais de atendimento das concessionárias.
 
-A **Resolução Normativa ANEEL nº 1.000/2021 (REN 1000)** é a principal norma consolidadora dos direitos e deveres dos consumidores e das obrigações das distribuidoras no Brasil. No entanto, por ser um texto extenso e denso, a localização rápida de respaldos regulatórios para a defesa técnica de clientes costuma ser um processo moroso.
+A **Resolução Normativa ANEEL nº 1.000/2021 (REN 1000)** é o principal pilar normativo que consolida os direitos e deveres dos consumidores, além das obrigações das distribuidoras no Brasil. No entanto, por ser um documento denso e extenso, a busca ágil por respaldos regulatórios para a defesa técnica de clientes costuma ser um processo moroso e repetitivo.
 
 ### 🚀 Objetivos do Caderno Temático
-1. **Centralizar o Respaldo Regulatório:** Mapear de forma precisa artigos, parágrafos e prazos da REN 1000/2021 e da Lei 14.300/2022.
-2. **Agilizar a Solução de Divergências:** Criar um fluxo de consulta capaz de fundamentar minutas de contestação e defesas técnicas contra erros e atrasos das distribuidoras.
-3. **Reduzir o Tempo de Resposta:** Automatizar a localização de regras de compensação financeira por descumprimento de prazos ou violação de indicadores (DIC/FIC).
-4. **Construir um Repositório Reutilizável:** Disponibilizar para a comunidade técnica um acervo de prompts otimizados e um miniguia prático de consulta.
+
+Para transformar esse cenário e otimizar a rotina de trabalho, os principais objetivos deste repositório são::
+
+1. **Centralizar o Respaldo Regulatório:** Mapear e indexar de forma precisa os principais artigos, parágrafos e prazos da REN 1000/2021 (ANEEL) e da Lei 14.300/2022 (MMGD).
+2. **Agilizar a Solução de Divergências:** Criar um fluxo rápido de consulta capaz de fundamentar minutas de contestação, ofícios e defesas técnicas contra erros e atrasos das distribuidoras.
+4. **Construir um Repositório Reutilizável:** Disponibilizar um acervo prático de prompts de Inteligência Artificial otimizados e um miniguia de consulta para apoiar a rotina técnica do setor elétrico.
+5. **Garantir Compensações:** Facilitar a localização das regras de compensação financeira devido ao descumprimento de prazos ou violação de indicadores de qualidade (DIC, FIC, DMIC) por parte da concessionária
 
 ---
 
 ## 📚 Curadoria de Fontes
 
-Para garantir rigor técnico e aplicabilidade prática no dia a dia da engenharia, foram selecionadas fontes oficiais (para leitura direta do NotebookLM) e análises de mercado em vídeo:
 
 ### 📄 Fontes Primárias e Regulatórias (Documentos e Leis)
-1. **[Resolução Normativa ANEEL nº 1.000/2021 (Texto Consolidado)](https://www2.aneel.gov.br/cedoc/ren20211000.pdf):** Norma central sobre as regras de prestação do serviço público de distribuição de energia elétrica, direitos, deveres e prazos operacionais.
+
+1. **[Resolução Normativa ANEEL nº 1.000/2021 (Texto Consolidado)](https://www2.aneel.gov.br/cedoc/ren20211000.pdf):** Norma central sobre as regras de prestação do serviço público de distribuição de energia elétrica, direitos, deveres e prazos operacionais.[Resolucao-normativa-1000-2021-Aneel-BR-consolidada-[02-06-2026].pdf](https://github.com/user-attachments/files/30549817/Resolucao-normativa-1000-2021-Aneel-BR-consolidada-.02-06-2026.pdf)
+
 2. **[Lei nº 14.300/2022 — Marco Legal da MMGD](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14300.htm):** Base legal do Sistema de Compensação de Energia Elétrica (SCEE), transição do Fio B e garantias de fiel cumprimento.
+
 3. **[Módulo 3 do PRODIST / ANEEL — Acesso ao Sistema de Distribuição](https://www.gov.br/aneel/pt-br/assuntos/prodist):** Regula as condições operacionais, prazos e exigências técnicas para conexão de acessantes ao sistema.
 
+4. **Cartilha Informativa MMGD EDP:** [cartilha-edp-es.pdf](https://github.com/user-attachments/files/30549837/cartilha-edp-es.pdf)
+
+
+
 ### 🎥 Fontes Complementares e Aplicadas (Análises em Vídeo)
-4. **[REN 1000, PRODIST e Lei 14.300 | Oficina do Conhecimento](https://www.youtube.com/watch?v=NCzoGhDt-tw):** Análise das interseções operacionais entre a norma, as diretrizes de distribuição e os impactos práticos na GD.
-5. **[Entendendo a REN 1000 da ANEEL | Boteco da Engenharia Podcast](https://www.youtube.com/watch?v=oLGw0QNwCxU):** Discussão prática sobre as mudanças da REN 1000, prazos de ressarcimento por danos elétricos e direitos do consumidor.
-6. **[Resolução 1000: Religação de Energia Elétrica | Canal ANEEL](https://www.youtube.com/watch?v=3zdlPpFmM8g):** Detalhamento sobre prazos de religação e direito a compensações financeiras automáticas por descumprimento de prazos.
+
+[Uploading cartilha-edp-es.pdf…]()
+
+5. **[REN 1000, PRODIST e Lei 14.300 | Oficina do Conhecimento](https://www.youtube.com/watch?v=NCzoGhDt-tw):** Análise das interseções operacionais entre a norma, as diretrizes de distribuição e os impactos práticos na GD.
+6. **[Entendendo a REN 1000 da ANEEL | Boteco da Engenharia Podcast](https://www.youtube.com/watch?v=oLGw0QNwCxU):** Discussão prática sobre as mudanças da REN 1000, prazos de ressarcimento por danos elétricos e direitos do consumidor.
+7. **[Resolução 1000: Religação de Energia Elétrica | Canal ANEEL](https://www.youtube.com/watch?v=3zdlPpFmM8g):** Detalhamento sobre prazos de religação e direito a compensações financeiras automáticas por descumprimento de prazos.
 
 ---
 
 ## 🛠️ Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 
+> 🚧 **Em construção...** 🚧 
+> *(Nesta seção, serão mapeados os aprendizados de erros anteriores com concessionárias ("cicatrizes") e os padrões criados para evitar repetições, além dos prompts operacionais de dia a dia.)*
+> 
 Abaixo documentamos a evolução dos testes iterativos com IAs/NotebookLM, evidenciando as falhas observadas em prompts genéricos e o refino necessário para extrair respostas regulatórias precisas:
 
 ### 🧪 Caso de Teste 1: Prazos e Penalidades de MMGD (Parecer de Acesso)
@@ -158,4 +182,94 @@ Com base na REN 1000/2021, consulte as regras para adequação do Sistema de Med
 ```text
 
 Atue como especialista em regulação do setor elétrico brasileiro. Crie a estrutura de um mapa mental sobre a Resolução Normativa ANEEL nº 1.000/2021 (REN 1000) contemplando os ramos principais: MMGD, Atendimento e Conexão, Faturamento e Medição, Direitos e Deveres, Qualidade do Fornecimento e Suspensão de Fornecimento. Formate em Markdown hierárquico limpo para importação em ferramentas visuais.
+
+
+
+---
+
+
+## ⚡ Procedimentos Operacionais: Migração para o Mercado Livre (CCEE)
+
+Nas regulamentações e procedimentos da CCEE (Câmara de Comercialização de Energia Elétrica), existem duas modalidades principais de adesão e migração de consumidores para o Mercado Livre de Energia:
+
+## 1. Adesão como Consumidor Atacadista (Agente Direto / Autorrepresentado)
+Nesta modalidade, a empresa torna-se agente associado da CCEE, assumindo diretamente todas as responsabilidades regulatórias, operacionais e financeiras perante o mercado de energia elétrica.
+
+### 📋 Etapas de Adesão:
+
+* Elegibilidade: Confirmar o enquadramento no Grupo A (alta/média tensão) e o atendimento aos requisitos regulatórios de demanda.
+
+* Notificação à Distribuidora (Carta Denúncia): Envio de notificação formal de rescisão do contrato de fornecimento regulado à distribuidora local, respeitando os prazos regulatórios previstos.
+
+** 6 Meses antes do fim da vigência ou início operacional já no Livre (nasce no ACL).
+
+* Habilitação Comercial e Documental: Envio da documentação societária, certidões negativas, diagrama do grupo econômico e declarações no Ambiente de Operações da CCEE.
+
+* Pagamento de Emolumento de Adesão: Recolhimento da taxa inicial de adesão estipulada pela CCEE.
+
+* Abertura de Conta de Liquidação: Abertura de conta corrente específica no banco custodiante oficial da CCEE (Banco Bradesco) para liquidação no Mercado de Curto Prazo (MCP). 
+[Manual_Abertura de Contas Vinculadas.pdf](https://github.com/user-attachments/files/30551142/Manual_Abertura.de.Contas.Vinculadas.pdf)
+
+** Apoio em: https://www.ccee.org.br/en/banco-custodiante
+** Necessária Procuração com especificação de poder para abrir conta no Bradesco;
+** Documentos: Documento de Constituição da Empresa; Documento de Identificação dos sócios; Comprovante de residência; Cartão CNPJ; Procuração (se necessário); Faturamento dos últimos 12 meses, devidamente assinado pelo
+contador, contendo o número do registro do CRC do Contador
+** OBS: Para a abertura da conta, o banco exige exclusivamente documentos **nato-digitais** (aqueles gerados e emitidos eletronicamente pelo próprio órgão emissor). Cópias simples ou digitalizações de documentos físicos não são aceitas, sendo validadas unicamente mediante **autenticação em cartório**.
+
+
+* Habilitação Técnica (SMF): Adequação e homologação do Sistema de Medição para Faturamento (SMF) com a distribuidora local e validação na CCEE.
+
+** Solicitar para concessionária o mapeamento do ponto de medição
+
+* Aprovação e Assinatura: Assinatura do Termo de Adesão e Convenção Arbitral, seguida da homologação do pedido pelo Conselho/Diretoria da CCEE.
+** Realizada até M-8 dias úteis
+
+
+### 🔄 Obrigações Contínuas:
+
+* Contribuição Associativa: Pagamento da mensalidade de manutenção da CCEE.
+
+* Aporte de Garantias Financeiras: Aporte periódico de garantias financeiras para cobrir eventuais liquidações no Mercado de Curto Prazo.
+
+* Gestão de Contratos: Registro, validação e gestão de contratos de compra e venda de energia no sistema da CCEE (CliqCCEE).
+
+* Gestão de Medição e Balanço Elétrico: Monitoramento mensal das medições de consumo e apuração de sobras/déficits expostos ao PLD.
+
+*  Participação Institucional: Submissão integral às Regras de Comercialização, penalidades e votações em Assembleias Gerais da CCEE.
+
+## 2. Adesão/Migração como Consumidor Varejista (Representado)
+Nesta modalidade, a empresa migra para o Mercado Livre sem se associar diretamente à CCEE. Toda a representação operacional, técnica e financeira perante a Câmara é realizada por um Comercializador Varejista habilitado.
+
+### 📋 Etapas de Migração:
+
+* Escolha do Comercializador Varejista: Seleção e negociação das condições de suprimento com uma comercializadora varejista.
+
+* Notificação à Distribuidora (Carta Denúncia): Envio de notificação formal de rescisão do contrato de fornecimento regulado à distribuidora local, respeitando os prazos regulatórios previstos.
+
+** 6 Meses antes do fim da vigência ou início operacional já no Livre (nasce no ACL).
+
+* Assinatura do CCVR: Assinatura do Contrato de Comercialização Varejista (CCVR) com o comercializador escolhido.
+
+* Adequação da Medição: Adequação da infraestrutura de medição (telemedição), conduzida junto à distribuidora local.
+
+* Modelagem Simplificada na CCEE: O Comercializador Varejista realiza a vinculação e cadastro da Unidade Consumidora no sistema da CCEE através do Modelo Simplificado via API.
+
+### 🔄 Obrigações Contínuas:
+
+* Cumprimento do Contrato Comercial: Pagamento da fatura mensal de energia diretamente ao Comercializador Varejista.
+
+* Encargos: enviados diretamente pelo Comercializador Varejista.
+
+**Encargos CCEE funcionam como um rateio do setor elétrico. São custos divididos entre os agentes para cobrir despesas operacionais e de emergência, como ligar usinas térmicas para evitar apagões ou manter reservas de energia.
+É o valor pago para garantir a estabilidade e a segurança de todo o sistema  elétrico!
+
+* Manutenção do CUSD: Manutenção do pagamento do Contrato de Uso do Sistema de Distribuição (CUSD) à distribuidora local.
+
+* Isenção Perante a CCEE: O consumidor fica isento de taxas de adesão, mensalidades associativas, aportes de garantias no MCP, abertura de conta específica e operacionalização nos sistemas da CCEE.
+
+
+
+## 📧 Alguns e-mails e prompt
+
+
 
