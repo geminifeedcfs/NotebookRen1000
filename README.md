@@ -207,6 +207,7 @@ Este glossário reúne os termos técnicos, regulatórios (com base no Marco Leg
 | **Comercializador Varejista** |  Agente credenciado na CCEE habilitado a representar consumidores e geradores de menor porte perante a Câmara, assumindo as obrigações operacionais e financeiras de contabilização. |
 | **Gerador** |   Agente detentor de autorização ou concessão para produzir e vender energia no mercado. |
 | **PLD** |  **Preço de Liquidação das Diferenças** - Valor fixado semanalmente/diariamente pela CCEE (em R$/MWh) utilizado para valorar a energia não contratada ou vendida em excesso pelas partes no mercado de curto prazo. |
+|  **PROINFA** |  **Programa de Incentivo às Fontes Alternativas de Energia Elétrica** - O Proinfa (Programa de Incentivo às Fontes Alternativas de Energia Elétrica) é uma política do governo brasileiro criada em 2002 para ampliar a energia limpa de pequenas centrais hidrelétricas, fontes eólicas e biomassa. |
 | **MCP** |  **Mercado de Curto Prazo** - Âmbito em que a CCEE contabiliza as diferenças entre os montantes de energia contratados e os efetivamente gerados ou consumidos pelos agentes. |
 | **Garantia Financeira** |   Montante de segurança (dinheiro, carta de fiança, título) que os agentes devem aportar para cobrir eventuais inadimplências no Mercado de Curto Prazo. |
 | **Sazonalização** |   Distribuição do volume anual do contrato de energia ao longo dos meses do ano para acompanhar as variações sazonais de consumo/geração. |
