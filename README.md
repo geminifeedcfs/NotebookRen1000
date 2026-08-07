@@ -480,6 +480,7 @@ Solicitações em geral: [Formulário de Atendimento MT_2026 NOVO.xlsx](https://
   >  Acrescentar 3% Perdas;
   >  Retirar ProInfra;
 
+*  A contribuição CCEE encaminhada pelo: cobflex_ccee@iwts.com.br. | Encaminhada no início do mês, disparada automaticamente para o cliente pelo e-mail do Marcos.| 
 * Verificar quais contratos e Montantes Executaremos: 🟦
   >  Se as contratações estão dentro dos contratos padrões, se estão expostos e etc. 🟦
 
